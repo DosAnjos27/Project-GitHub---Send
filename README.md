@@ -78,7 +78,7 @@ Introduzir ao versionamento de código com Git e GitHub.
         <span><b>DosAnjos27</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Aluno da Dio</span>
     </td>
   </tr>
 </table>
