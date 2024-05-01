@@ -1,4 +1,4 @@
-[@@ -1,13 +1,13 @@]
+(@@ -1,13 +1,13 @@)
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -67,7 +67,7 @@ Introduzir ao versionamento de código com Git e GitHub.
   </tbody>
   <tfoot></tfoot>
 </table>
-## Instrutora
+## Iniciante na Dio
 <table>
   <tr>
     <td>
