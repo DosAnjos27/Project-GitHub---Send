@@ -1,4 +1,4 @@
-@@ -1,13 +1,13 @@
+[@@ -1,13 +1,13 @@]
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -74,8 +74,8 @@ Introduzir ao versionamento de código com Git e GitHub.
       <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
     </td>
     <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
+      <a href="https://github.com/DosAnjos27/Project-GitHub---Send">
+        <span><b>DosAnjos27</b></span>
       </a>
       <br>
       <span>Desenvolvedora Front-end</span>
@@ -91,4 +91,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Copiado por <a href="https://github.com/DosAnjos27/Project-GitHub---Send">Eli</a>.</div>
