@@ -67,7 +67,7 @@ Introduzir ao versionamento de código com Git e GitHub.
   </tbody>
   <tfoot></tfoot>
 </table>
-## Iniciante na Dio
+## Curso Criação De Jogos Em GODOT.
 <table>
   <tr>
     <td>
